@@ -1,0 +1,4 @@
+name: ElytraFlight
+version: '${project.version}'
+main: red.jad.elytraflight.ElytraFlight
+api-version: '1.20'
